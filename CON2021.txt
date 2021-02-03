@@ -1,0 +1,11 @@
+** ICS Conferences 2021**
+
+February 11 - ICS Cyberscec 2021 - https://the-ics-cybersec-2021.events.co.il/home
+March 4/5  - Sans ICS summit - https://www.sans.org/event/ics-security-summit-2021/summit-agenda/
+April 27/29 - Industrial Control Systems (ICS) Cyber Security Conference - https://www.icscybersecurityconference.com/
+May 4 - Hack the Capitol 4.0 - https://www.icsvillage.com/hack-the-capitol-2021
+May 4/7 - BlackHat Asia 2021 - https://www.blackhat.com/asia-21/
+May 17/20 - RSA COnference 2021 - https://www.rsaconference.com/usa
+August 5/8 - DefCon 29 - https://www.defcon.org/
+October 26/28 - The Premier Cyber Security Conference for ICS/SCADA and Critical Infrastructure CS3STHLM - https://cs3sthlm.se/
+November 5 - Dragos Industrial Security Conference DISC 2021 - https://www.dragos.com/disc/
