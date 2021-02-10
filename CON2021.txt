@@ -2,6 +2,7 @@
 
 February 11 - ICS Cyberscec 2021 - https://the-ics-cybersec-2021.events.co.il/home
 March 4/5  - Sans ICS summit - https://www.sans.org/event/ics-security-summit-2021/summit-agenda/
+March 24 - Operation: Next 2021 - https://web.cvent.com/event/6ebd5903-bf70-44a2-8264-18644f118b48/websitePage:4a169165-c94d-491b-b906-e2aef5e69716?rp=509523a4-952b-4b8a-9bc6-025911a5dbf4
 April 27/29 - Industrial Control Systems (ICS) Cyber Security Conference - https://www.icscybersecurityconference.com/
 May 4 - Hack the Capitol 4.0 - https://www.icsvillage.com/hack-the-capitol-2021
 May 4/7 - BlackHat Asia 2021 - https://www.blackhat.com/asia-21/
